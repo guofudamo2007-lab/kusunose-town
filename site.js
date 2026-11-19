@@ -1,4 +1,7 @@
 const movie=document.querySelector('#movie')
+const rainFilm=document.querySelector('#rain-film')
+movie.addEventListener('play',()=>rainFilm.pause())
+rainFilm.addEventListener('play',()=>movie.pause())
 const chapters=[...document.querySelectorAll('[data-time]')]
 for(const chapter of chapters){
  chapter.addEventListener('click',async()=>{
