@@ -2,7 +2,7 @@
 
 浅见川两岸住着八位街坊。上午十点半的班车到站，青木领包裹，森田备午市，黑木把修理铺的工具借给熟人。玩家既能从街道上跟着居民走，也能翻他们的手记，核对一件事究竟发生过没有。
 
-[进入作品网站](https://guofudamo2007-lab.github.io/kusunose-town/) · [下载 Windows 体验版](https://github.com/guofudamo2007-lab/kusunose-town/releases/download/v1.0.1/Kusunose-Windows.zip) · [下载 Word 作品说明](https://guofudamo2007-lab.github.io/kusunose-town/assets/guide.docx?v=guide5)
+[进入作品网站](https://guofudamo2007-lab.github.io/kusunose-town/) · [下载 Windows 体验版](https://github.com/guofudamo2007-lab/kusunose-town/releases/download/v1.0.2/Kusunose-Windows.zip) · [下载 Word 作品说明](https://guofudamo2007-lab.github.io/kusunose-town/assets/guide.docx?v=guide5)
 
 ## 看点
 
@@ -10,6 +10,10 @@
 - **01:52** 打开工具墙的粉笔板，从同一笔借据看青木按时还和迟还两分钟的结果。按时归还后可再借，逾期存档则记到第五天 00:02。
 - **02:28** 切到连晴三天的菜园，跟着杉本和黑木去旧水车，再从重新打开的存档里核对两人的日志。
 - [雨夜纯享《两个人去燕食堂》](https://guofudamo2007-lab.github.io/kusunose-town/#rain) 单独成片，全长 1 分钟。黑木从西北角出发，杉本从东岸过桥，两人先后走进燕食堂。一个连续镜头里能看到两条路，全程只有游戏雨声。
+
+## Windows 1.0.2 更新
+
+杉本在菜畦间站立时可以看清。居民被屋舍挡住时会显出轮廓，地名遮住选中的居民时会淡出。「村民初来乍到」等规则开关现可正常切换，选择会随小镇存档保留。
 
 ## 使用
 
